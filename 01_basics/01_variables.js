@@ -22,5 +22,5 @@ function Example(){
     console.log(x);
     console.log(y);
 }
-
+ Example();
 
